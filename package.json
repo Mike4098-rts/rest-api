@@ -1,0 +1,30 @@
+{
+  "name": "dataservices",
+  "version": "1.0.0",
+  "description": "[Changelog](./CHANGELOG.md)",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+
+    "start": "node app",
+    "dev": "nodemon app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mike4098-rts/express-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mike4098-rts/express-example/issues"
+  },
+  "homepage": "https://github.com/Mike4098-rts/express-example#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
